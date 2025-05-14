@@ -1,18 +1,18 @@
 # **ALEJANDRO FERNANDEZ LUNAR**
 ## _INFORMÀTIC_
 
----
+
 
 ### 📞 Telèfon: 661 59 64 22  
 ### 📧 Email: af82016@gmail.com  
 ### 📍 Població: Vallgorguina
 
----
+
 
 ## 📌 Més informació
 - Disponibilitat total.
 
----
+
 
 ## 🌍 Idiomes
 **Castellà i català:**  
@@ -21,7 +21,7 @@ Natiu
 **Anglès:**  
 Nivell: B1
 
----
+
 
 ## 🧠 Habilitats
 - Bona comunicació  
@@ -30,7 +30,7 @@ Nivell: B1
 - Creatiu  
 - Social  
 
----
+
 
 ## 🧑‍💻 Sobre mi
 Soc un estudiant de segon any d’un cicle mitjà d’informàtica.  
@@ -38,7 +38,7 @@ M’apassiona qualsevol tema que estigui relacionat amb la informàtica i la tec
 Em defineixo com una persona amb ganes d’aprendre coses noves i un gran treballador en equip.  
 M’adapto molt a les conseqüències que siguin.
 
----
+
 
 ## 🎓 Dades acadèmiques
 
